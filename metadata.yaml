@@ -1,5 +1,5 @@
 _repo: A-Man-in-the-Zoo_66090
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Garnett, R. A. (Rachel Alice)
@@ -11,6 +11,9 @@ contributor:
     deathdate: 1940
     gutenberg_agent_id: '40621'
     url: http://www.gutenberg.org/2009/agents/40621
+covers:
+- cover_type: archival
+  image_path: 66090-h/images/cover.jpg
 creator:
   author:
     agent_name: Garnett, David
@@ -21,6 +24,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3473
     wikipedia: https://en.wikipedia.org/wiki/David_Garnett
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66090#A-Man-in-the-Zoo
 gutenberg_issued: '2021-08-20'
 identifiers:
   gutenberg: '66090'
