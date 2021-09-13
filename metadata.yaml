@@ -1,0 +1,37 @@
+_repo: A-Man-in-the-Zoo_66090
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Garnett, R. A. (Rachel Alice)
+    aliases:
+    - Garnett, Rachel A.
+    - Garnett, Ray A.
+    - Marshall, Rachel Alice
+    birthdate: 1891
+    deathdate: 1940
+    gutenberg_agent_id: '40621'
+    url: http://www.gutenberg.org/2009/agents/40621
+creator:
+  author:
+    agent_name: Garnett, David
+    alias: Burke, Leda
+    birthdate: 1892
+    deathdate: 1981
+    gutenberg_agent_id: '3473'
+    url: http://www.gutenberg.org/2009/agents/3473
+    wikipedia: https://en.wikipedia.org/wiki/David_Garnett
+description: ''
+gutenberg_issued: '2021-08-20'
+identifiers:
+  gutenberg: '66090'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Man-woman relationships -- Fiction'
+- !lcsh 'Zoos -- Fiction'
+- !lcc 'PR'
+- GITenberg
+title: A Man in the Zoo
+url: http://www.gutenberg.org/ebooks/66090
